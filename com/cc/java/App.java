@@ -4,8 +4,8 @@ public class App {
     
     public static void main(String[] args) {
 
-    // test --> Referenzvariable / RAM-Adresse des Objekts/Instanz (object/instance)
     // Test --> Referenztyp (reference type)
+    // test --> Referenzvariable / RAM-Adresse des Objekts/Instanz (object/instance)
     // Object <--> Instanz
 
     Test test  = new Test();
